@@ -2,16 +2,6 @@
 
 I made a Simple TO-DO List App, Developed with [React-Native](https://facebook.github.io/react-native/)
 
-Now, app is built on Android, but It can be built on ios later.
-
-# User's Guide
-
-[Go To Manual](/document/UserGuide.md)
-
-# Are you want try this app?
-
-[TRY IT](https://appetize.io/app/6c147bhkb7jth7ydbyv7dp3wg0)
-
 # Elements
 
 - #### App.js
